@@ -11,7 +11,7 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 ```
-cd kodluyoruzilkrepo
+cd 1998-Google-Ana-Sayfasini-Tasarlamak
 code .
 ```
 # Contributing
